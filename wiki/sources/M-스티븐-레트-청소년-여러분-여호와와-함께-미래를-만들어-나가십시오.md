@@ -40,7 +40,7 @@ My theme for this month’s broadcast is “Young Ones —Build Your Future With
 
 ## 관련 페이지
 
-[[entities/M. 스티븐 레트]] · [[overview]]
+[[entities/M. 스티븐 레트]] · [[concepts/격려와 세워 주는 말]] · [[concepts/자녀와 청소년 교육]] · [[overview]]
 
 ## 출처
 - 동영상: <https://www.jw.org/ko/라이브러리/동영상/#ko/mediaitems/StudioTalks/pub-jwb_201703_2_VIDEO>

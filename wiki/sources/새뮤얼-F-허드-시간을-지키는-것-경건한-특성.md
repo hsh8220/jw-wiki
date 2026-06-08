@@ -44,7 +44,7 @@ The theme selected for my comments this month is “Punctuality—A Godly Qualit
 
 ## 관련 페이지
 
-[[entities/새뮤얼 F. 허드]] · [[overview]]
+[[entities/새뮤얼 F. 허드]] · [[concepts/영적 장성과 훈련]] · [[overview]]
 
 ## 출처
 - 동영상: <https://www.jw.org/ko/라이브러리/동영상/#ko/mediaitems/StudioTalks/pub-jwb_201709_2_VIDEO>

@@ -40,7 +40,7 @@ In the book Insight on the Scriptures, under the heading “Christian,” it mak
 
 ## 관련 페이지
 
-[[entities/새뮤얼 F. 허드]] · [[overview]]
+[[entities/새뮤얼 F. 허드]] · [[concepts/사랑]] · [[concepts/예수의 본과 제자도]] · [[overview]]
 
 ## 출처
 - 동영상: <https://www.jw.org/ko/라이브러리/동영상/#ko/mediaitems/StudioTalks/pub-jwban_201607_1_VIDEO>

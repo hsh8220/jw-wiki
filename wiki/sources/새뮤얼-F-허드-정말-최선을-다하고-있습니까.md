@@ -38,7 +38,7 @@ tags: [연설, 새뮤얼 F. 허드]
 
 ## 관련 페이지
 
-[[entities/새뮤얼 F. 허드]] · [[overview]]
+[[entities/새뮤얼 F. 허드]] · [[concepts/격려와 세워 주는 말]] · [[overview]]
 
 ## 출처
 - 동영상: <https://www.jw.org/ko/라이브러리/동영상/#ko/mediaitems/StudioTalks/pub-jwb_202104_2_VIDEO>

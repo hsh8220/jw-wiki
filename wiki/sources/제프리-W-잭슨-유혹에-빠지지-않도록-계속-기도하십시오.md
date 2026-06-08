@@ -41,7 +41,7 @@ tags: [연설, 제프리 W. 잭슨]
 
 ## 관련 페이지
 
-[[entities/제프리 W. 잭슨]] · [[overview]]
+[[entities/제프리 W. 잭슨]] · [[concepts/기도]] · [[concepts/사탄과 영적 전쟁]] · [[overview]]
 
 ## 출처
 - 동영상: <https://www.jw.org/ko/라이브러리/동영상/#ko/mediaitems/StudioTalks/pub-jwb_202010_2_VIDEO>

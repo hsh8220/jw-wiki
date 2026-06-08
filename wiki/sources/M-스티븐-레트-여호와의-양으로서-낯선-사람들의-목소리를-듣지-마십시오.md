@@ -41,7 +41,7 @@ tags: [연설, M. 스티븐 레트]
 
 ## 관련 페이지
 
-[[entities/M. 스티븐 레트]] · [[overview]]
+[[entities/M. 스티븐 레트]] · [[concepts/격려와 세워 주는 말]] · [[concepts/진리와 거짓]] · [[overview]]
 
 ## 출처
 - 동영상: <https://www.jw.org/ko/라이브러리/동영상/#ko/mediaitems/StudioTalks/pub-jwb-090_2_VIDEO>

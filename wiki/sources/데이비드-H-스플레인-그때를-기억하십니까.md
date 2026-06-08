@@ -35,7 +35,7 @@ tags: [연설, 데이비드 H. 스플레인]
 
 ## 관련 페이지
 
-[[entities/데이비드 H. 스플레인]] · [[overview]]
+[[entities/데이비드 H. 스플레인]] · [[concepts/영적 장성과 훈련]] · [[overview]]
 
 ## 출처
 - 동영상: <https://www.jw.org/ko/라이브러리/동영상/#ko/mediaitems/StudioTalks/pub-jwb-084_2_VIDEO>

@@ -43,7 +43,7 @@ The theme for our program this month is “Treasure Jehovah’s Reminders.” An
 
 ## 관련 페이지
 
-[[entities/제프리 W. 잭슨]] · [[overview]]
+[[entities/제프리 W. 잭슨]] · [[concepts/사랑]] · [[concepts/지혜와 분별력]] · [[overview]]
 
 ## 출처
 - 동영상: <https://www.jw.org/ko/라이브러리/동영상/#ko/mediaitems/StudioTalks/pub-jwb_201705_2_VIDEO>

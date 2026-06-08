@@ -38,7 +38,7 @@ Have you enjoyed studying the book Imitate Their Faith as much as I have? It’s
 
 ## 관련 페이지
 
-[[entities/데이비드 H. 스플레인]] · [[overview]]
+[[entities/데이비드 H. 스플레인]] · [[concepts/성경과 영적 양식]] · [[overview]]
 
 ## 출처
 - 동영상: <https://www.jw.org/ko/라이브러리/동영상/#ko/mediaitems/StudioTalks/pub-jwban_201609_1_VIDEO>

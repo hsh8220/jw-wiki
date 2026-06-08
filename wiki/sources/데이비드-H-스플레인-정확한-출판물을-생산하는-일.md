@@ -33,7 +33,7 @@ This month I’d like to talk about the efforts Jehovah’s organization is maki
 
 ## 관련 페이지
 
-[[entities/데이비드 H. 스플레인]] · [[overview]]
+[[entities/데이비드 H. 스플레인]] · [[concepts/성경과 영적 양식]] · [[concepts/진리와 거짓]] · [[overview]]
 
 ## 출처
 - 동영상: <https://www.jw.org/ko/라이브러리/동영상/#ko/mediaitems/StudioTalks/pub-jwb_201711_2_VIDEO>

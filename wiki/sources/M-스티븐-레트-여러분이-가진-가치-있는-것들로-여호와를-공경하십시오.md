@@ -41,7 +41,7 @@ The Governing Body has asked me to use Proverbs 3:9 as the theme for the message
 
 ## 관련 페이지
 
-[[entities/M. 스티븐 레트]] · [[overview]]
+[[entities/M. 스티븐 레트]] · [[concepts/물질주의]] · [[overview]]
 
 ## 출처
 - 동영상: <https://www.jw.org/ko/라이브러리/동영상/#ko/mediaitems/StudioTalks/pub-jwban_201505_1_VIDEO>

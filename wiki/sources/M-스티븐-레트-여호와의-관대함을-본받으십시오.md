@@ -39,7 +39,7 @@ tags: [연설, M. 스티븐 레트]
 
 ## 관련 페이지
 
-[[entities/M. 스티븐 레트]] · [[overview]]
+[[entities/M. 스티븐 레트]] · [[concepts/관대함과 감사]] · [[concepts/예수의 본과 제자도]] · [[overview]]
 
 ## 출처
 - 동영상: <https://www.jw.org/ko/라이브러리/동영상/#ko/mediaitems/StudioTalks/pub-jwb-129_2_VIDEO>

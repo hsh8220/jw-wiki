@@ -1,7 +1,7 @@
 ---
 type: overview
 title: "JW Wiki 개요"
-updated: 2026-06-07
+updated: 2026-06-08
 ---
 
 # JW Wiki 개요
@@ -26,11 +26,12 @@ updated: 2026-06-07
   (예: [[scriptures/시편]] 155구절·203회, [[scriptures/요한복음]]).
 - 연사별 페이지에서 한 연사의 모든 연설을 연대순으로 볼 수 있음
   (예: [[entities/M. 스티븐 레트]] 24편, [[entities/제프리 W. 잭슨]] 25편).
+- 반복 주제 개념 페이지 **30개**가 source 전체를 가로질러 연결됨.
 
 ## 다루는 주제
 
-- 예수께서 약속하신 **평화** — 요한복음 14:27 ([[concepts/평화]])
-- **[[concepts/겸손과 교만]]** · **[[concepts/물질주의]]** · **[[concepts/사랑]]** · **[[concepts/자녀와 청소년 교육]]** — 반복 주제 개념 페이지
-- 박해 속의 행복·중립 — [[concepts/미움과 박해 속의 행복]]
-- **길르앗 학교** 졸업식과 선교 훈련 (JW 방송)
-- 그 밖의 주제(신뢰·기도·인내·봉사 등)는 질의/심화 시 개념 페이지로 점진적으로 작성
+- **핵심 관계와 덕목**: [[concepts/여호와에 대한 신뢰와 가까움]] · [[concepts/예수의 본과 제자도]] · [[concepts/사랑]] · [[concepts/겸손과 교만]] · [[concepts/회중 연합과 형제 관계]]
+- **영적 습관과 성장**: [[concepts/기도]] · [[concepts/성경과 영적 양식]] · [[concepts/영적 장성과 훈련]] · [[concepts/지혜와 분별력]] · [[concepts/전파와 봉사]]
+- **시련과 보호**: [[concepts/인내와 위로]] · [[concepts/믿음과 희망]] · [[concepts/미움과 박해 속의 행복]] · [[concepts/사탄과 영적 전쟁]] · [[concepts/중립과 세상과 구별됨]]
+- **교리·숭배 축**: [[concepts/대속과 용서]] · [[concepts/성령과 하느님의 인도]] · [[concepts/여호와의 이름과 목적]] · [[concepts/경건한 두려움과 숭배]] · [[concepts/진리와 거짓]]
+- **생활 적용**: [[concepts/가정과 결혼]] · [[concepts/자녀와 청소년 교육]] · [[concepts/물질주의]] · [[concepts/관대함과 감사]] · [[concepts/격려와 세워 주는 말]] · [[concepts/회개와 양심과 변화]] · [[concepts/기쁨과 행복]] · [[concepts/공정성과 편파 없음]]

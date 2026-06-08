@@ -35,7 +35,7 @@ tags: [연설, 제프리 W. 잭슨]
 
 ## 관련 페이지
 
-[[entities/제프리 W. 잭슨]] · [[overview]]
+[[entities/제프리 W. 잭슨]] · [[concepts/지혜와 분별력]] · [[overview]]
 
 ## 출처
 - 동영상: <https://www.jw.org/ko/라이브러리/동영상/#ko/mediaitems/StudioTalks/pub-jwb-095_2_VIDEO>
